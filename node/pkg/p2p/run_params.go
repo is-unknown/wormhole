@@ -55,6 +55,7 @@ type (
 		gov                    *governor.ChainGovernor
 		components             *Components
 		ibcFeaturesFunc        func() string
+		processorFeaturesFunc  func() string
 		gatewayRelayerEnabled  bool
 		ccqEnabled             bool
 		signedQueryReqC        chan<- *gossipv1.SignedQueryRequest
@@ -98,6 +99,22 @@ func NewRunParams(
 	}
 
 	return p, nil
+}
+
+// WithComponents is used to set the components if you need something other than the defaults.
+func WithComponents(components *Components) RunOpt {
+	return func(p *RunParams) error {
+		p.components = components
+		return nil
+	}
+}
+
+// WithProcessorFeaturesFunc is used to set the processor features function.
+func WithProcessorFeaturesFunc(processorFeaturesFunc func() string) RunOpt {
+	return func(p *RunParams) error {
+		p.processorFeaturesFunc = processorFeaturesFunc
+		return nil
+	}
 }
 
 // WithSignedObservationListener is used to set the channel to receive `SignedObservation` messages.
