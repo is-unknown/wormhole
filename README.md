@@ -1,6 +1,12 @@
 <img alt="Banner" src="docs/images/banner.jpg"/>
 
-This monorepo contains the reference implementation of the [Wormhole protocol](https://wormholenetwork.com).
+# **RED ALERT RED ALERT**
+<img alt="red alert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghrVLU1Bm58HzyJkKuSXzihbStbmAy7lVg&s" />
+- **Intercom in all buildings**: SCIENTISTS HAVE DISCOVERED THAT WORMHOLES ARE HURLING TOWARD THE EARTH!
+- Meanwhile in some lab:
+- **Peter**: But we do not have the technology to spacerocket out of earth.
+- **Jon**: Then we will stop the wormhole.
+
 
 To learn about how to use and build on Wormhole read the [docs](https://docs.wormhole.com/).
 
