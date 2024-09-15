@@ -2,13 +2,23 @@
 
 # **RED ALERT RED ALERT**
 <img alt="red alert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghrVLU1Bm58HzyJkKuSXzihbStbmAy7lVg&s" />
-- **Intercom in all buildings**: SCIENTISTS HAVE DISCOVERED THAT WORMHOLES ARE HURLING TOWARD THE EARTH!
-- Meanwhile in some lab:
-- **Peter**: But we do not have the technology to spacerocket out of earth.
+
+- **Intercom in all buildings**: SCIENTISTS HAVE DISCOVERED THAT A WORMHOLE IS HURLING TOWARD THE EARTH!
+Meanwhile in some lab:
+- **Peter**: But we do not have the technology to spacerocket out of earth with a 7 billion people..
 - **Jon**: Then we will stop the wormhole.
+- **Peter**: How?
+*On the streets people are panicking*:
+- **Ned**: WE'RE ALL GONNA DIE!!!!!!!!!!!!!
+Back to the lab:
+- **Jon**: Wait, the wormhole is going the other way!
+- **Peter**: WE'RE SAVED!
+- **Intercom in all buildings**: The wormhole is going the opposite direction, we're all safe.
+- **Ned**: WE'RE ALL GONNA LIVE!!!!!!!!!!!!!
 
+To learn about wormholes and their dangers visit the [wikipedia article](https://en.wikipedia.org/wiki/Wormhole).
 
-To learn about how to use and build on Wormhole read the [docs](https://docs.wormhole.com/).
+The above story was fictional and not true.
 
 ----
 
@@ -21,8 +31,4 @@ See [docs/operations.md](docs/operations.md) for node operator instructions.
 
 ![](docs/images/overview.svg)
 
-⚠ **This software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-implied. See the License for the specific language governing permissions and limitations under the License.** Or plainly
-spoken - this is a very complex piece of software which targets a bleeding-edge, experimental smart contract runtime.
-Mistakes happen, and no matter how hard you try and whether you pay someone to audit it, it may eat your tokens, set
-your printer on fire or startle your cat. Cryptocurrencies are a high-risk investment, no matter how fancy.
+⚠ **wormholes are dangerous. don't play around with this osftware.**
