@@ -16,19 +16,8 @@ Back to the lab:
 - **Intercom in all buildings**: The wormhole is going the opposite direction, we're all safe.
 - **Ned**: WE'RE ALL GONNA LIVE!!!!!!!!!!!!!
 
-To learn about wormholes and their dangers visit the [wikipedia article](https://en.wikipedia.org/wiki/Wormhole).
-
-The above story was fictional and not true.
+To learn about wormholes and their dangers look at some of the markdown files in this repo or visit the [wikipedia article](https://en.wikipedia.org/wiki/Wormhole).
 
 ----
-
-See [Live Contracts](https://docs.wormholenetwork.com/wormhole/contracts) for current testnet and mainnet deployments of
-the Wormhole smart contracts.
-
-See [DEVELOP.md](DEVELOP.md) for instructions on how to set up a local devnet, [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to contribute to this project, and [SECURITY.md](SECURITY.md) for more information about our security audits and bug bounty program.
-
-See [docs/operations.md](docs/operations.md) for node operator instructions.
-
-![](docs/images/overview.svg)
 
 ⚠ **wormholes are dangerous. don't play around with this osftware.**
