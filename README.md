@@ -1,6 +1,8 @@
 <img alt="Banner" src="docs/images/banner.jpg"/>
 
-# **RED ALERT RED ALERT**
+## what is this?
+we are the fighters for wormholes. we protect poeple from them.
+below is a real story.
 <img alt="red alert" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPghrVLU1Bm58HzyJkKuSXzihbStbmAy7lVg&s" />
 
 - **Intercom in all buildings**: SCIENTISTS HAVE DISCOVERED THAT A WORMHOLE IS HURLING TOWARD THE EARTH!
@@ -15,9 +17,12 @@ Back to the lab:
 - **Peter**: WE'RE SAVED!
 - **Intercom in all buildings**: The wormhole is going the opposite direction, we're all safe.
 - **Ned**: WE'RE ALL GONNA LIVE!!!!!!!!!!!!!
+we were actually the ones that moved the wormhole.
 
-To learn about wormholes and their dangers look at some of the markdown files in this repo or visit the [wikipedia article](https://en.wikipedia.org/wiki/Wormhole).
+To learn about wormholes and their dangers [see here](docs/index.md).
 
 ----
 
-⚠ **wormholes are dangerous. don't play around with this osftware.**
+⚠ **wormholes are dangerous. don't play around with wormholes. if you see one, follow the [security program guidelines](SECURITY.MD)**
+
+⚠ **if you want to work at wormhole, see [this page](CONTRIBUTING.MD)**

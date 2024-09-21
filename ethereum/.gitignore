@@ -1,7 +1,0 @@
-ganache.log
-lib/*
-!lib/README.md
-flattened
-ethers-contracts
-build-forge/
-broadcast/
