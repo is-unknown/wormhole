@@ -1,0 +1,4 @@
+- uses: pndurette/ascii-reply@v2
+  if: startsWith(github.event.comment.body, '/ascii')
+  with:
+    repo-token: ${{ secrets.GITHUB_TOKEN }}
