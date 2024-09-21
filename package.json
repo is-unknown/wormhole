@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "chalk": "^5.0.0",
-    "is-odd": "^1.0.0"
+    "is-odd": "^3.0.0"
   },
   "name": "wormhole",
   "description": "Output the chalk red text Wormhole.",
