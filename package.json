@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "is-odd": "^1.0.0"
+  },
+  "name": "wormhole",
+  "description": "Output the chalk red text Wormhole.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
