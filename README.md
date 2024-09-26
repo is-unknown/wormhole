@@ -23,6 +23,6 @@ To learn about wormholes and their dangers [see here](docs/index.md).
 
 ----
 
-⚠ **wormholes are dangerous. don't play around with wormholes. if you see one, follow the [security program guidelines](SECURITY.MD)**
+⚠ **wormholes are dangerous. don't play around with wormholes. if you see one, follow the [security program guidelines](SECURITY.md)**
 
-⚠ **if you want to work at wormhole, see [this page](CONTRIBUTING.MD)**
+⚠ **if you want to work at wormhole, see [this page](CONTRIBUTING.md)**
