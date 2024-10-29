@@ -1,7 +1,7 @@
 # W o r m h o l e
 
 ### PART 1: WHAT TO DO IF YOU SEE A WORMHOLE
-1. Make sure you're following the [security program](../SECURITY.MD).
+1. Make sure you're following the [security guidelenis](../SECURITY.md).
 2. File a GitHub issue.
 3. Make sure your children or friends or people are at least 4 met(re/er)s away.
 ### PART 2: WHAT IS A WORMHOLE?

@@ -38,6 +38,6 @@ Outputs the red text "Wormhole" in the console
 
 ----
 
-⚠ **wormholes are dangerous. don't play around with wormholes. if you see one, follow the [security program guidelines](SECURITY.MD)**
+⚠ **wormholes are dangerous. don't play around with wormholes. if you see one, follow the [security program guidelines](SECURITY.md)**
 
-⚠ **if you want to work at wormhole, see [this page](CONTRIBUTING.MD)**
+⚠ **if you want to work at wormhole, see [this page](CONTRIBUTING.md)**
