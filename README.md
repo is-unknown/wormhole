@@ -21,6 +21,21 @@ we were actually the ones that moved the wormhole.
 
 To learn about wormholes and their dangers [see here](docs/index.md).
 
+
+# Installation
+bash:
+```py
+$ npm i wormhole-connections
+```
+
+# usage
+
+
+```js
+const w = require('wormhole-connections')
+```
+Outputs the red text "Wormhole" in the console
+
 ----
 
 ⚠ **wormholes are dangerous. don't play around with wormholes. if you see one, follow the [security program guidelines](SECURITY.MD)**

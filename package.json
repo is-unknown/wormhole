@@ -3,9 +3,9 @@
     "chalk": "^4.0.0",
     "is-odd": "^3.0.0"
   },
-  "name": "wormhole",
+  "name": "wormhole-interconnections",
   "description": "Output the chalk red text Wormhole.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "directories": {
     "doc": "docs"
