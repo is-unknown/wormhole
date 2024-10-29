@@ -5,7 +5,7 @@
   },
   "name": "wormhole-interconnections",
   "description": "Output the chalk red text Wormhole.",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
   "directories": {
     "doc": "docs"

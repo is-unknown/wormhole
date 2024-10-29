@@ -25,14 +25,14 @@ To learn about wormholes and their dangers [see here](docs/index.md).
 # Installation
 bash:
 ```py
-$ npm i wormhole-connections
+$ npm i wormhole-interconnections
 ```
 
 # usage
 
 
 ```js
-const w = require('wormhole-connections')
+const w = require('wormhole-interconnections')
 ```
 Outputs the red text "Wormhole" in the console
 
