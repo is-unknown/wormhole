@@ -4,4 +4,6 @@ The wormhole security program initiates child and adult safety checks for wormho
 - if you see a microscopic wormhole, call 911.
 - if you see wormholes, call 911.
 - if wormhole seen, call 911.
-- also file a github issue saying our armed forces don't work.
+- if you see a wormhole, call 911.
+- if you see any sort of wormhole or wormholes, call 911.
+- also contact us somehow
