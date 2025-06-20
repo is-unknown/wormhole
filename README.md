@@ -35,7 +35,7 @@ $ npm i wormhole-interconnections
 ```js
 const w = require('wormhole-interconnections')
 ```
-Outputs the red text "If you see a wormhole, report it to the wormholefighters at https://wormholes.66ghz.com" in the console
+Outputs the red text "If you see a wormhole, report it to the wormholefighters at https://wormholes.66ghz.com or open an issue on the github repo" in the console
 
 ----
 
