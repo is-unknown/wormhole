@@ -23,6 +23,7 @@ To learn about wormholes and their dangers [see here](docs/index.md).
 
 
 # Installation
+We  have an npm package to make sure people are aware of wormholes. please install and require this package on your npm packages.
 bash:
 ```py
 $ npm i wormhole-interconnections
@@ -34,7 +35,7 @@ $ npm i wormhole-interconnections
 ```js
 const w = require('wormhole-interconnections')
 ```
-Outputs the red text "Wormhole" in the console
+Outputs the red text "If you see a wormhole, report it to the wormholefighters at https://wormholes.66ghz.com" in the console
 
 ----
 
